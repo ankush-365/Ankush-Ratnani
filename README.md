@@ -2,7 +2,7 @@
 <h3 align="center">AIML Engineering Student | Aspiring ML Engineer | Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Learning+Machine+Learning+%F0%9F%A7%A0;React+%2B+Tailwind+Dev+%F0%9F%92%BB;Building+Smart+Web+Projects+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Machine+Learning+%F0%9F%A7%A0;React+%2B+Javascript+Dev+%F0%9F%92%BB;Building+Smart+Web+Projects+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
