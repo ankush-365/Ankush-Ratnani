@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react)
 
-#### ⚙️ Backend & ML
+#### ⚙️ ML Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
