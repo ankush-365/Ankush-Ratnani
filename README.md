@@ -39,7 +39,6 @@
 ### 📌 Featured Projects
 Here are a few projects I’ve worked on recently:
 - 🔗 **Expense Tracker Dashboard** — ReactJS + AI assistant  
-- 🔗 **MindEase** — Hackathon project for mental health  
 - 🔗 **Vehicle Maintenance Web App** — Idea for SSIP, includes smart scheduling  
 - 🔗 More soon...
 
