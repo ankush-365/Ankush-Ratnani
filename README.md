@@ -40,6 +40,7 @@
 Here are a few projects I’ve worked on recently:
 - 🔗 **Expense Tracker Dashboard** — ReactJS + AI assistant  
 - 🔗 **Vehicle Maintenance Web App** — Idea for SSIP, includes smart scheduling  
+- 🔗 **Titanic Survival Prediction** — Applied Various ML Algorithm
 - 🔗 More soon...
 
 ---
