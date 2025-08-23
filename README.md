@@ -19,23 +19,17 @@
 
 #### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java)
-
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react)
 
 #### ⚙️ ML Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 
 ---
