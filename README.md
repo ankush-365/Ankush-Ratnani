@@ -34,13 +34,12 @@
 
 ---
 
----
-
 ### 📌 Featured Projects
 Here are a few projects I’ve worked on recently:
-- 🔗 **Expense Tracker Dashboard** — ReactJS + AI assistant  
-- 🔗 **Vehicle Maintenance Web App** — Idea for SSIP, includes smart scheduling  
-- 🔗 **Titanic Survival Prediction** — Applied Various ML Algorithm
+- 🔗 **Amazon Books Review and Rating Analysis** — Implemented preprocessing and cleaning and applied BOW(Bag of Words) and TF-TDF for reviewText.
+- 🔗 **Chess Games Winner Prediction** — Worked on a large set of noisy data .
+- 🔗 **Role Playing Game** — Built using Javascript, A small game for user.  
+- 🔗 **Titanic Survival Prediction** — Applied Various ML Algorithm.
 - 🔗 More soon...
 
 ---
